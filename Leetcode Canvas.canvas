@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"54e34c86626c6496","type":"text","text":"","x":-1270,"y":-1823,"width":250,"height":60},
 		{"id":"f00db9585422f233","type":"file","file":"neetcode-notes/containsDuplicate217.excalidraw.md","x":-60,"y":-2180,"width":920,"height":1912},
 		{"id":"8c701e244ae62c44","type":"file","file":"neetcode-notes/containsDuplicate217.md","x":-800,"y":-2040,"width":700,"height":1586},
 		{"id":"fc7a51101fe9a691","type":"file","file":"neetcode-notes/groupAnagrams.excalidraw.md","x":-520,"y":-80,"width":1760,"height":1200},
-		{"id":"39fe79c2c5145544","type":"file","file":"neetcode-notes/neetcode-patterns.md","x":-1940,"y":-660,"width":890,"height":946}
+		{"id":"39fe79c2c5145544","type":"file","file":"neetcode-notes/neetcode-patterns-note.md","x":-2640,"y":-760,"width":1040,"height":960},
+		{"id":"10635c1c74581511","x":-1800,"y":680,"width":702,"height":360,"type":"file","file":"neetcode-notes/neetcode-patterns-folder/array-and-hashtable.md"}
 	],
 	"edges":[]
 }
