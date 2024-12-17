@@ -1,10 +1,10 @@
 {
 	"nodes":[
 		{"id":"54e34c86626c6496","type":"text","text":"","x":-1270,"y":-1823,"width":250,"height":60},
-		{"id":"f00db9585422f233","type":"file","file":"General/Leetcode Notes (drawn explanations)/containsDuplicate217.excalidraw.md","x":-60,"y":-2180,"width":920,"height":1912},
-		{"id":"8c701e244ae62c44","type":"file","file":"General/Leetcode Notes (drawn explanations)/containsDuplicate217.md","x":-800,"y":-2040,"width":700,"height":1586},
-		{"id":"fc7a51101fe9a691","type":"file","file":"General/Leetcode Notes (drawn explanations)/groupAnagrams.excalidraw.md","x":-520,"y":-80,"width":1760,"height":1200},
-		{"id":"39fe79c2c5145544","type":"file","file":"General/Leetcode Notes (drawn explanations)/neetcode-tables.md","x":-2080,"y":-1400,"width":890,"height":946}
+		{"id":"f00db9585422f233","type":"file","file":"neetcode-notes/containsDuplicate217.excalidraw.md","x":-60,"y":-2180,"width":920,"height":1912},
+		{"id":"8c701e244ae62c44","type":"file","file":"neetcode-notes/containsDuplicate217.md","x":-800,"y":-2040,"width":700,"height":1586},
+		{"id":"fc7a51101fe9a691","type":"file","file":"neetcode-notes/groupAnagrams.excalidraw.md","x":-520,"y":-80,"width":1760,"height":1200},
+		{"id":"39fe79c2c5145544","type":"file","file":"neetcode-notes/neetcode-tables.md","x":-1960,"y":-1060,"width":890,"height":946}
 	],
 	"edges":[]
 }

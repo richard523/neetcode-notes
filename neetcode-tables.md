@@ -1,8 +1,8 @@
 
 | Pattern                     | Description | comfort level |
 | --------------------------- | ----------- | ------------- |
-| [[array-and-hashtable]]     |             | IDK BRO       |
-| [[two-pointers]]            |             | LOL           |
+| [[array-and-hashtable]]     |             | 10            |
+| [[two-pointers]]            |             | 10            |
 | [[sliding-window]]          |             |               |
 | [[binary-search]]           |             |               |
 | [[stack]]                   |             |               |
