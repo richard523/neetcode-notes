@@ -1,0 +1,80 @@
+{
+  "nodes": [
+    {
+      "id": "f00db9585422f233",
+      "type": "file",
+      "file": "neetcode-notes/containsDuplicate217.excalidraw.md",
+      "styleAttributes": {},
+      "x": -60,
+      "y": -2180,
+      "width": 920,
+      "height": 1912
+    },
+    {
+      "id": "fc7a51101fe9a691",
+      "type": "file",
+      "file": "neetcode-notes/groupAnagrams.excalidraw.md",
+      "styleAttributes": {},
+      "x": -520,
+      "y": -80,
+      "width": 1760,
+      "height": 1200
+    },
+    {
+      "id": "39fe79c2c5145544",
+      "type": "file",
+      "file": "neetcode-notes/neetcode-patterns-note.md",
+      "styleAttributes": {},
+      "x": -3280,
+      "y": -640,
+      "width": 1040,
+      "height": 960
+    },
+    {
+      "id": "10635c1c74581511",
+      "type": "file",
+      "file": "neetcode-notes/neetcode-patterns-folder/array-and-hashtable.md",
+      "styleAttributes": {},
+      "x": -2040,
+      "y": -1200,
+      "width": 702,
+      "height": 360
+    },
+    {
+      "id": "8c701e244ae62c44",
+      "type": "file",
+      "file": "neetcode-notes/containsDuplicate217.md",
+      "styleAttributes": {},
+      "x": -920,
+      "y": -3600,
+      "width": 700,
+      "height": 320
+    },
+    {
+      "id": "895a4d5bf4aa6860",
+      "type": "file",
+      "file": "neetcode-notes/neetcode-main-table-tmo.md",
+      "x": -1000,
+      "y": -700,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "cb9d0b54dc1bc19c",
+      "fromNode": "39fe79c2c5145544",
+      "fromSide": "right",
+      "toNode": "10635c1c74581511",
+      "toSide": "left"
+    },
+    {
+      "id": "7c5bb4dd33a9e109",
+      "fromNode": "10635c1c74581511",
+      "fromSide": "right",
+      "toNode": "8c701e244ae62c44",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
